@@ -1,0 +1,2 @@
+# Simple-GUI-chat-app
+This is a simple Graphical User Interface Chat app based on Python. In this, first, we need to run the server.py file in the command prompt and then run the client.py file in your IDE. This will ask you to put your nickname, and then a chatbox will open. To open a second chat terminal you need to open another command prompt and then run the client.py file again. This will open a second chatbox in which you can chat with the first chatbox user.
